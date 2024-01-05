@@ -1,1 +1,2 @@
 first line on master branch, this will be first commit
+2nd line edited by master branch," " 2nd commit
