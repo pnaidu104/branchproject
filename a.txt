@@ -3,6 +3,7 @@ first line on master branch, this will be first commit
 3rd line edited by alpha branch," " 3rd commit from alpha(this commit will not shown in master branch until we use git merge command,then it will show)
 4th line edited by master branch
 5th line edited by alpha branch(i think 5th commit)
+<<<<<<< HEAD
 6th line added by test
-this line is modified by master branch
+this line is modified by master brach
 8th line is modified by test(just checking if this message will be shown)
