@@ -1,2 +1,3 @@
 first line on master branch, this will be first commit
 2nd line edited by master branch," " 2nd commit
+3rd line edited by alpha branch," " 3rd commit from alpha(this commit will not shown in master branch"
