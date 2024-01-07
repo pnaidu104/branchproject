@@ -7,3 +7,4 @@ first line on master branch, this will be first commit
 6th line added by test
 this line is modified by master brach
 8th line is modified by test(just checking if this message will be shown)
+this line is adding by test branch
