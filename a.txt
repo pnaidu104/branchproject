@@ -5,4 +5,4 @@ first line on master branch, this will be first commit
 5th line edited by alpha branch(i think 5th commit)
 6th line added by test
 this line is modified by master branch
-8th line is modified by test
+8th line is modified by test(just checking if this message will be shown)
