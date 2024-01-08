@@ -2,3 +2,6 @@
 2nd line added by the branch
 1st line edited by test branch with 1st commit
 3rd line added by test with latest commit
+4th line edited by master
+5th line by master
+update-index command
