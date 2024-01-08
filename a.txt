@@ -8,4 +8,4 @@ first line on master branch, this will be first commit
 this line is modified by master brach
 8th line is modified by test(just checking if this message will be shown)
 this line is adding by test branch
-this line is added by master (again edited)(2nd time dited)for reset 
+this line is added by master (again edited)(2nd time edited)for reset command
